@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CartiShopV2/static/css/main.eccfbac6.css",
+    "main.js": "/CartiShopV2/static/js/main.99452ada.js",
+    "index.html": "/CartiShopV2/index.html",
+    "main.eccfbac6.css.map": "/CartiShopV2/static/css/main.eccfbac6.css.map",
+    "main.99452ada.js.map": "/CartiShopV2/static/js/main.99452ada.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eccfbac6.css",
+    "static/js/main.99452ada.js"
+  ]
+}
